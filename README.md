@@ -38,13 +38,4 @@ portfolio/
 │   └── ...
 └── README.md
 🚀 Getting Started
-To view locally:
-
-Clone the repository
-
-
-git clone https://github.com/yourusername/your-repo-name.git
-Open index.html in your browser
-Double-click or use Live Server in VS Code.
-
 
